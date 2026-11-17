@@ -43,8 +43,8 @@
 Адаптивный сайт-каталог французских пирожных с интерактивным слайдером, мобильной навигацией и формой заявки.
 
 Стек: HTML5 · CSS3 · JavaScript · jQuery · Slick Slider
-- Live Demo
-- Исходный код
+ <a href="https://macaroons-ruby.vercel.app">- Live Demo</a>
+ <a href="https://github.com/Mit-10/macaroons">- Исходный код</a>
 
 ---
 
