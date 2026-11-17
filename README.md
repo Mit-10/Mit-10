@@ -38,7 +38,7 @@
 ---
 
 ### 🚀 Проекты
-<img src="assets/macaroons.png" alt="macaroons" width="350px">
+<img src="assets/macaroons.png" alt="macaroons" width="600px">
 🍬 Macaroons — сайт-каталог
 Адаптивный сайт-каталог французских пирожных с интерактивным слайдером, мобильной навигацией и формой заявки.
 
